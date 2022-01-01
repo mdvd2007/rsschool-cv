@@ -14,3 +14,4 @@ I want to learn the skills of an interface developer
 - HTML
 - CSS
 - JavaScript
+- intellectual property law
