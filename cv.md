@@ -1,4 +1,3 @@
-# Markdown
 # rsschool-cv
 ## Sutyagin Mikhail
 
